@@ -27,11 +27,6 @@ def hello_world():
 ### Embedding a Jupyter notebook (HTML file in iframe):
 <iframe src="/portfolio/portfolio_notebook_item1.html" width="100%" height="800px" frameborder="0"></iframe>
 
-### Embedding a Jupyter notebook (Google Colab):
-{% comment %}
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gouralgo/gouralgo.github.io/blob/main/portfolio/portfolio_item1.ipynb)
-{% endcomment %}
- 
-<a href="https://colab.research.google.com/github/gouralgo/gouralgo.github.io/blob/main/portfolio/portfolio_item1.ipynb" target="_blank">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+### Embedding a Jupyter notebook (GitHub Gist):
+
+<script src="https://gist.github.com/gouralgo/f79dd33c52957dbfc7ea9d20d43c25a9.js"></script>
