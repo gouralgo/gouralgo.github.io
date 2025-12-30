@@ -17,12 +17,15 @@ def hello_world():
     print("Hello from GitHub Pages!")
 ```
 
-Embedding a Jupyter notebook (NB Viewer):
+### Embedding a Jupyter notebook (NB Viewer):
 <iframe src="https://nbviewer.org/github/gouralgo/gouralgo.github.io/blob/main/portfolio/portfolio_item1.ipynb" 
         width="100%" 
         height="600px" 
         style="border:1px solid #eee;">
 </iframe>
 
-IFrame:
+### Embedding a Jupyter notebook (HTML file in iframe):
 <iframe src="/portfolio/portfolio_notebook_item1.html" width="100%" height="800px" frameborder="0"></iframe>
+
+### Embedding a Jupyter notebook (Google Colab):
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gouralgo/gouralgo.github.io/blob/main/portfolio/portfolio_item1.ipynb)
