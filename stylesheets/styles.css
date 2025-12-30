@@ -270,6 +270,6 @@ footer {
 }
 
 .gist-data {
-    max-height: 1200px; /* Limits the height */
+    min-height: 1200px; /* Fixes minimum to the height */
     overflow-y: auto;   /* Adds a vertical scrollbar if code is long */
 }
