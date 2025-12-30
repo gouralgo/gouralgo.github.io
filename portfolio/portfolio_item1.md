@@ -10,3 +10,11 @@ This is a paragraph
 
 *text in italic*
 **text in bold**
+
+Code block:
+``` python
+def hello_world():
+    print("Hello from GitHub Pages!")
+```
+
+Embedding a Jupyter notebook:
