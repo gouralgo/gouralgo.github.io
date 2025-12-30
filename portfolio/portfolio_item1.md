@@ -28,4 +28,10 @@ def hello_world():
 <iframe src="/portfolio/portfolio_notebook_item1.html" width="100%" height="800px" frameborder="0"></iframe>
 
 ### Embedding a Jupyter notebook (Google Colab):
+{% comment %}
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gouralgo/gouralgo.github.io/blob/main/portfolio/portfolio_item1.ipynb)
+{% endcomment %}
+ 
+<a href="https://colab.research.google.com/github/gouralgo/gouralgo.github.io/blob/main/portfolio/portfolio_item1.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
