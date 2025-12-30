@@ -1,3 +1,7 @@
+---
+layout: default
+title: Portfolio Item 1
+---
 # Head title 1
 ## Head title 2
 This is a paragraph
